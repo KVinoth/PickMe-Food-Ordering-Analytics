@@ -1,4 +1,4 @@
-# **PickMe Food Ordering & SQL Analytics** 🍽️
+# **PickMe Food Ordering & SQL Analytics** 🍽
 
 ## **Project Overview**  
 This project is a **Flask-based food ordering system** that allows users to place orders through a web UI. The data is stored in a **MySQL database**, and it includes **SQL-based analytics** to derive insights on order trends, customer behavior, and revenue generation.
