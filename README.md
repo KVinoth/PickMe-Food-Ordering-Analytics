@@ -1,14 +1,19 @@
-PickMe Food Ordering & SQL Analytics 🍽
-Project Overview
-This project is a Flask-based food ordering system that allows users to place orders through a web UI. The data is stored in a MySQL database, and it includes SQL-based analytics to derive insights on order trends, customer behavior, and revenue generation.
+# **PickMe Food Ordering & SQL Analytics** 🍽️
 
-Workflow
-Place Orders 🍔 – Users select food items from the UI and place their orders.
-Store Order Data 💾 – Orders, customers, and payments are saved in the MySQL database.
-Analyze Data 📊 – Perform advanced SQL queries to extract insights and visualize data.
+## **Project Overview**  
+This project is a **Flask-based food ordering system** that allows users to place orders through a web UI. The data is stored in a **MySQL database**, and it includes **SQL-based analytics** to derive insights on order trends, customer behavior, and revenue generation.
 
+---
 
-Project Structure
+## **Workflow**  
+1. **Place Orders 🍔** – Users select food items from the UI and place their orders.
+2. **Store Order Data 💾** – Orders, customers, and payments are saved in the MySQL database.
+3. **Analyze Data 📊** – Perform advanced SQL queries to extract insights and visualize data.
+
+---
+
+## **Project Structure**  
+```
 
 PickMe-Food-Ordering-Analytics
 │── python
@@ -26,23 +31,32 @@ PickMe-Food-Ordering-Analytics
 │  
 │── README.md                      # Project documentation  
 
+```
 
-Technologies Used
-Flask 🐍 – Web framework for order processing
-MySQL 🛢️ – Database storage & querying
-SQL 📊 – Data analytics using advanced queries
-HTML/CSS 🎨 – Web UI for placing orders
+---
 
 
-SQL Topics Covered
-✅ Table Constraints (Primary Keys, Foreign Keys, Indexing)
-✅ Aggregations (SUM, COUNT, AVG, MIN, MAX)
-✅ Joins (INNER, LEFT, RIGHT)
-✅ Window Functions (SUM OVER, RANK, ROW_NUMBER)
-✅ CASE Statements (Conditional Data Categorization)
-✅ Subqueries & CTEs (WITH Queries for Structured Analysis)
-✅ Performance Tuning (Indexes, Partitions, Optimization)
-✅ Regular Expressions (REGEXP) (Pattern Matching)
+---
 
+## **Technologies Used**  
+- **Flask 🐍** – Web framework for order processing  
+- **MySQL 🛢️** – Database storage & querying  
+- **SQL 📊** – Data analytics using advanced queries  
+- **HTML/CSS 🎨** – Web UI for placing orders  
 
-Note: This project integrates Flask for building the web-based ordering system and uses MySQL for storing orders and customer data. SQL queries are used for detailed analytics, making it easy to analyze trends and make data-driven decisions.
+---
+
+## **SQL Topics Covered**  
+- ✅ **Table Constraints** (Primary Keys, Foreign Keys, Indexing)  
+- ✅ **Aggregations** (SUM, COUNT, AVG, MIN, MAX)  
+- ✅ **Joins** (INNER, LEFT, RIGHT)  
+- ✅ **Window Functions** (SUM OVER, RANK, ROW_NUMBER)  
+- ✅ **CASE Statements** (Conditional Data Categorization)  
+- ✅ **Subqueries & CTEs** (WITH Queries for Structured Analysis)  
+- ✅ **Performance Tuning** (Indexes, Partitions, Optimization)  
+- ✅ **Regular Expressions (REGEXP)** (Pattern Matching)  
+
+---
+
+> **Note:** This project integrates **Flask** for building the web-based ordering system and uses **MySQL** for storing orders and customer data. SQL queries are used for detailed analytics, making it easy to analyze trends and make data-driven decisions.  
+
